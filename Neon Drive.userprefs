@@ -1,0 +1,12 @@
+﻿<Properties StartupItem="Neon Drive.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Virtual Joystick Pack\Example\PlayerExample.cs">
+    <Files>
+      <File FileName="Assets\Virtual Joystick Pack\Example\PlayerExample.cs" Line="14" Column="41" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
